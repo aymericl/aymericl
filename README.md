@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Angular, ionic**
 
-- 📫 How to reach me **aymericl.info@gmail.com**
+- 📫 How to reach me **aymeric.info@proton.me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
